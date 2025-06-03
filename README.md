@@ -6,9 +6,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1. **Install dependencies**
 
-  ```bash
-  npm install
-  ```
+```bash
+npm install
+```
 
 2. **Start the development server**
 
@@ -26,8 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 3. **Open the Prisma Studio to inspect the database**
 
-   ```bash
-   npx prisma studio
-   ```
-
-   This opens a GUI in your browser to explore the SQLite database.
+```bash
+npx prisma studio
+```
+This opens a GUI in your browser to explore the SQLite database.
